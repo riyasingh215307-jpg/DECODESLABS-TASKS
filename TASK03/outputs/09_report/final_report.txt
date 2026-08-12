@@ -1,0 +1,15 @@
+PROJECT 3 REPORT
+
+Objective:
+Customer Segmentation using PCA and K-Means Clustering.
+
+Optimal Number of Clusters: 3
+
+Deliverables:
+- Cleaned Dataset
+- PCA
+- Elbow Method
+- Silhouette Score
+- Cluster Visualization
+- Customer Personas
+- Business Insights

@@ -1,0 +1,3 @@
+Explained Variance Ratio:
+PC1: 0.5658
+PC2: 0.3226

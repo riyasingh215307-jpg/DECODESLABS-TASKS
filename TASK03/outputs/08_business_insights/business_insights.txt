@@ -1,0 +1,12 @@
+BUSINESS INSIGHTS
+=============================
+
+Cluster 0
+Recommendation: Personalized offers and targeted marketing.
+
+Cluster 1
+Recommendation: Personalized offers and targeted marketing.
+
+Cluster 2
+Recommendation: Personalized offers and targeted marketing.
+

@@ -1,0 +1,15 @@
+,0
+OrderID,str
+Date,datetime64[us]
+CustomerID,str
+Product,str
+Quantity,int64
+UnitPrice,float64
+ShippingAddress,str
+PaymentMethod,str
+OrderStatus,str
+TrackingNumber,str
+ItemsInCart,int64
+CouponCode,str
+ReferralSource,str
+TotalPrice,float64
